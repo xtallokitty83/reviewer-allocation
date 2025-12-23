@@ -5,15 +5,15 @@
 3,leg,dismissal,Quorblet,Twilighthorn,Greezle,Thornwhisper
 4,scrape,gate,Sprocketfrost,Glimmerfawn,Furrystomp,Sablette
 5,transform,pen,Thornwhisper,Quivelox,Vormelix,Tundranel
-6,hurl,weave,Ferrocorn,Stardusta,Tindra Sparkplume,Fluffisquill Whispertail
+6,hurl,weave,Ferrocorn,Stardusta,TindraSparkplume,FluffisquillWhispertail
 7,resort,shark,Lunaswoop,Nimbleshine,Sablette,Stardusta
 8,different,pot,Twirlbreeze,Greezle,Tundranel,Snufflewhisk
 9,glow,tower,Twizzlefin,Sprocketfrost,Furrystomp,Ferrocorn
-10,burial,sick,Tindra Sparkplume,Vormelix,Buzzlefin,Furrystomp
-11,wild,pat,Tundranel,Glimmerfawn,Stardusta,Fluffisquill Whispertail
-12,taxi,crystal,Buzzlefin,Glimmerfawn,Nimbleshine,Tindra Sparkplume
+10,burial,sick,TindraSparkplume,Vormelix,Buzzlefin,Furrystomp
+11,wild,pat,Tundranel,Glimmerfawn,Stardusta,FluffisquillWhispertail
+12,taxi,crystal,Buzzlefin,Glimmerfawn,Nimbleshine,TindraSparkplume
 13,injection,transmission,Snorblequill,Thornwhisper,Indigofin,Furrystomp
-14,diamond,impound,Fluffisquill Whispertail,Quivelox,Tundranel,Nimbloom
+14,diamond,impound,FluffisquillWhispertail,Quivelox,Tundranel,Nimbloom
 15,heart,penetrate,Snorblequill,Twilighthorn,Snufflewhisk,Zazzlewing
 16,extinct,precede,Twirlbreeze,Sprocketfrost,Glimmerfawn,Stardusta
 17,scheme,patch,Twizzlefin,Quivelox,Vormelix,Lunaswoop
@@ -26,29 +26,29 @@
 24,structure,public,Thornwhisper,Greezle,Twilighthorn,Quorblet
 25,cabinet,clerk,Sablette,Furrystomp,Glimmerfawn,Sprocketfrost
 26,lesson,aware,Tundranel,Vormelix,Quivelox,Thornwhisper
-27,rehearsal,slime,Fluffisquill Whispertail,Tindra Sparkplume,Stardusta,Ferrocorn
+27,rehearsal,slime,FluffisquillWhispertail,TindraSparkplume,Stardusta,Ferrocorn
 28,appear,cinema,Stardusta,Sablette,Nimbleshine,Lunaswoop
 29,cart,long,Snufflewhisk,Tundranel,Greezle,Twirlbreeze
 30,hospital,grip,Ferrocorn,Furrystomp,Sprocketfrost,Twizzlefin
-31,dismissal,leg,Furrystomp,Buzzlefin,Vormelix,Tindra Sparkplume
-32,gate,scrape,Fluffisquill Whispertail,Stardusta,Glimmerfawn,Tundranel
+31,dismissal,leg,Furrystomp,Buzzlefin,Vormelix,TindraSparkplume
+32,gate,scrape,FluffisquillWhispertail,Stardusta,Glimmerfawn,Tundranel
 33,pen,transform,Tindra Sparkplume,Nimbleshine,Glimmerfawn,Buzzlefin
 34,weave,hurl,Furrystomp,Indigofin,Thornwhisper,Snorblequill
-35,shark,resort,Nimbloom,Tundranel,Quivelox,Fluffisquill Whispertail
+35,shark,resort,Nimbloom,Tundranel,Quivelox,FluffisquillWhispertail
 36,pot,different,Zazzlewing,Snufflewhisk,Twilighthorn,Snorblequill
 37,tower,glow,Stardusta,Glimmerfawn,Sprocketfrost,Twirlbreeze
 38,sick,burial,Lunaswoop,Vormelix,Quivelox,Twizzlefin
 39,pat,wild,Quivelox,Glimmerfawn,Snufflewhisk,Fuzzcrane
 40,crystal,taxi,Sprocketfrost,Zazzlewing,Quivelox,Snorblequill
 41,transmission,injection,Fuzzcrane,Lunaswoop,Twilighthorn,Twirlbreeze
-42,impound,diamond,Fuzzcrane,Fluffisquill Whispertail,Lunaswoop,Thornwhisper
+42,impound,diamond,Fuzzcrane,FluffisquillWhispertail,Lunaswoop,Thornwhisper
 43,penetrate,heart,Quorblet,Snorblequill,Twirlbreeze,Quivelox
 44,precede,extinct,Snorblequill,Twirlbreeze,Twizzlefin,Twilighthorn
-45,patch,scheme,Twilighthorn,Twizzlefin,Tindra Sparkplume,Sprocketfrost
+45,patch,scheme,Twilighthorn,Twizzlefin,TindraSparkplume,Sprocketfrost
 46,corruption,fail,Glimmerfawn,Fuzzcrane,Tundranel,Quivelox
 47,leg,sheet,Quivelox,Snorblequill,Buzzlefin,Snufflewhisk
 48,obstacle,suburb,Stardusta,Twirlbreeze,Snorblequill,Quivelox
-49,dribble,name,Nimbleshine,Snorblequill,Fluffisquill Whispertail,Twilighthorn
+49,dribble,name,Nimbleshine,Snorblequill,FluffisquillWhispertail,Twilighthorn
 50,an,picture,Greezle,Greezle,Snorblequill,Nimbloom
 ,,,,,,
 ,,,,,,
